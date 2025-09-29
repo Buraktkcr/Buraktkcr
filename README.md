@@ -22,16 +22,16 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/kullanici_adiniz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="burak.tikicieri@ogr.gelisim.edu.tr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/buraktkcr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+<script type="module">
+import { PacmanRenderer } from 'https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js';
+const pr = new PacmanRenderer({
+    platform: 'github',
+    username: 'buraktkcr',
+    canvas: document.getElementById('canvas'),
+    outputFormat: 'canvas',
+    gameTheme: 'github'
+});
+pr.start();
+</script>
 
 ###
