@@ -35,9 +35,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Buraktkcr.Buraktkcr&left_color=blue"  />
-</div>
-
-###
