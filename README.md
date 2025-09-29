@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="left">Merhaba👋</h1>
 
-<!--
-**Buraktkcr/Buraktkcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">Ben Burak Tikicieri. İstanbul Gelişim Üniversitesi’nde Ön Yüz Yazılım Geliştirme bölümünde öğrenim gören bir öğrenciyim. Kodlama ve web geliştirme ile ilgileniyorum, özellikle HTML, CSS ve JavaScript üzerinde çalışmalar yapıyorum. Hedefim, teknoloji kullanmanın ötesine geçerek, web uygulamaları geliştirebilmek, öğrenmeye devam etmek ve güvenli ve sürdürülebilir çözümler üretmeyi öğrenmektir.<br><br><br>I am Burak Tikicieri, a student studying in the Front-End Development program at İstanbul Gelişim University. I am interested in coding and web development, especially practicing HTML, CSS, and JavaScript. My goal is to go beyond just using technology, build web applications, continue learning, and develop skills to create secure and sustainable solutions.</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">📚 şu anda öğreniyorum: HTML, CSS ve Javascript<br> 🎯 Hedeflerim:  web uygulamaları geliştirebilmek, öğrenmeye devam etmek ve güvenli ve sürdürülebilir çözümler üretmeyi öğrenmek.<br><br>📚 I'm currently learning:  HTML, CSS and Javascript<br> 🎯 Goals: Build simple web applications, improve coding skills, and create secure and sustainable solutions</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Buraktkcr/Buraktkcr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Buraktkcr/Buraktkcr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Buraktkcr/Buraktkcr/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/kullanici_adiniz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="burak.tikicieri@ogr.gelisim.edu.tr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/buraktkcr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Buraktkcr.Buraktkcr&left_color=blue"  />
+</div>
+
+###
