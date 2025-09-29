@@ -22,6 +22,3 @@
 
 ###
 
-![Pacman Contribution Graph](images/pacman-contribution-graph.png)
-
-###
