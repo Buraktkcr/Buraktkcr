@@ -22,16 +22,6 @@
 
 ###
 
-<script type="module">
-import { PacmanRenderer } from 'https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js';
-const pr = new PacmanRenderer({
-    platform: 'github',
-    username: 'buraktkcr',
-    canvas: document.getElementById('canvas'),
-    outputFormat: 'canvas',
-    gameTheme: 'github'
-});
-pr.start();
-</script>
+![Pacman Contribution Graph](images/pacman-contribution-graph.png)
 
 ###
