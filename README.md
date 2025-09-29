@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Ben Burak Tikicieri. İstanbul Gelişim Üniversitesi’nde Ön Yüz Yazılım Geliştirme bölümünde öğrenim gören bir öğrenciyim. Kodlama ve web geliştirme ile ilgileniyorum, özellikle HTML, CSS ve JavaScript üzerinde çalışmalar yapıyorum. Hedefim, teknoloji kullanmanın ötesine geçerek, web uygulamaları geliştirebilmek, öğrenmeye devam etmek ve güvenli ve sürdürülebilir çözümler üretmeyi öğrenmektir.<br><br><br>I am Burak Tikicieri, a student studying in the Front-End Development program at İstanbul Gelişim University. I am interested in coding and web development, especially practicing HTML, CSS, and JavaScript. My goal is to go beyond just using technology, build web applications, continue learning, and develop skills to create secure and sustainable solutions.</h2>
+<h2 align="left">Ben Burak Tikicieri. İstanbul Gelişim Üniversitesi’nde Ön Yüz Yazılım Geliştirme bölümünde öğrenim gören bir öğrenciyim. Kodlama ve web geliştirme ile ilgileniyorum, güncel olarak HTML, CSS ve JavaScript üzerine eğitim alıyorum. Hedefim, teknoloji kullanmanın ötesine geçerek, web uygulamaları geliştirebilmek, öğrenmeye devam etmek ve güvenli ve sürdürülebilir çözümler üretmeyi öğrenmektir.<br><br><br>I am Burak Tikicieri, a student studying in the Front-End Development program at İstanbul Gelişim University. I am interested in coding and web development, especially practicing HTML, CSS, and JavaScript. My goal is to go beyond just using technology, build web applications, continue learning, and develop skills to create secure and sustainable solutions.</h2>
 
 ###
 
