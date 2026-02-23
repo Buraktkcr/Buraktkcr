@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 şu anda öğreniyorum: HTML, CSS ve Javascript<br> 🎯 Hedeflerim:  web uygulamaları geliştirebilmek, öğrenmeye devam etmek ve güvenli ve sürdürülebilir çözümler üretmeyi öğrenmek.<br><br>📚 I'm currently learning:  HTML, CSS and Javascript<br> 🎯 Goals: Build simple web applications, improve coding skills, and create secure and sustainable solutions</p>
+<p align="left">📚 şu anda öğreniyorum: HTML, CSS ve Javascript<br> 🎯 Hedeflerim:  web uygulamaları geliştirebilmek, öğrenmeye devam etmek ve güvenli ve sürdürülebilir çözümler üretmeyi öğrenmek.<br><br>📚 I'm currently learning:  HTML, CSS and Javascript<br> 🎯 Goals: Build  web applications, improve coding skills, and create secure and sustainable solutions</p>
 
 ###
 
