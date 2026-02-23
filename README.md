@@ -19,6 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000" height="40" alt="my sql logo" />
+  <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" height="40" alt="bootstrap logo" />
 </div>
 
 ###
